@@ -17,9 +17,41 @@ nav{
     background-color: rgba(0,0,0,0.5);
     color: #ffffff;
 }
-.img-thumbnail{
-    border:none;
+.img-container{
+    background-color: rgba(0,0,0,0.5);
+    margin:0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    color: #ffffff;
 }
+.img1{
+    background-image: url(https://images.unsplash.com/photo-1563221653-990de148f14a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=100%);
+    background-repeat: no-repeat;
+    padding:0;
+    margin:0px;
+
+}
+.img2{
+    background-image: url(
+    https://images.pexels.com/photos/1368382/pexels-photo-1368382.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=300);
+    background-repeat: no-repeat;
+    padding:0;
+    margin:0px;
+}
+.img3{
+    background-image: url(https://images.pexels.com/photos/3338676/pexels-photo-3338676.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=300);
+    background-repeat: no-repeat;
+    padding:0;
+    margin:0px;
+}
+.img4{
+    background-image: url(https://images.pexels.com/photos/6003105/pexels-photo-6003105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=300);
+    background-repeat: no-repeat;
+    padding:0;
+    margin:0px;
+}
+
 .footer{
     height:100px;
     color: white;
