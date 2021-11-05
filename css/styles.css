@@ -12,10 +12,14 @@ nav{
     background-attachment: fixed;
     background-repeat: no-repeat;
     padding: 0px;
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 .container{
     background-color: rgba(0,0,0,0.5);
     color: #ffffff;
+}
+.btn-dark{
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 .img-container{
     background-color: rgba(0,0,0,0.5);
@@ -30,25 +34,28 @@ nav{
     background-repeat: no-repeat;
     padding:0;
     margin:0px;
-
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 .img2{
     background-image: url(https://images.pexels.com/photos/167701/pexels-photo-167701.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=400);
     background-repeat: no-repeat;
     padding:0;
     margin:0px;
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 .img3{
     background-image: url(https://images.pexels.com/photos/2487443/pexels-photo-2487443.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=400);
     background-repeat: no-repeat;
     padding:0;
     margin:0px;
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 .img4{
     background-image: url(https://images.pexels.com/photos/14287/pexels-photo-14287.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=400);
     background-repeat: no-repeat;
     padding:0;
     margin:0px;
+    box-shadow: 0 3px 20px rgba(0,0,0,.9);
 }
 
 .footer{
